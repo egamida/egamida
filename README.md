@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about how I can help modernize your documentation.
 
+⚡ Fun fact: I maintain a blog periodically at www.docs-as-code.com.
+
 📫 How to reach me: david@egami.ch
