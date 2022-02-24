@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on developing a docs-as-code workflow within the Semiconductor industry.
+
+👯 I’m looking to collaborate on developing documentation for open source projects.
+
+💬 Ask me about how I can help modernize your documentation.
+
+📫 How to reach me: david@egami.ch
